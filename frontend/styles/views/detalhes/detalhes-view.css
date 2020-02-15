@@ -1,0 +1,6 @@
+#detalhes-view {
+    display: block;
+}
+:host {
+    display: block;
+}
